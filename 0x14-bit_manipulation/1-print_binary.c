@@ -1,10 +1,12 @@
 #include "main.h"
-/*
- *print_binary- prints the binary representation of a number
- *@n: integer variable for the number to be converted
+
+/**
+ * print_binary- prints the binary representation of a number
+ * @n: Integer variable for the number to be converted
  *
- * Return: void
+ *Return: void
  */
+
 void print_binary(unsigned long int n)
 {
 
